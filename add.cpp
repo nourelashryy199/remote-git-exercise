@@ -5,5 +5,6 @@ int main(){
     cin>>x>>y;
     cout<<"The addition result is: "<<endl;
     cout<<x+y;
+    cout<<endl;
     return 0;
 }
